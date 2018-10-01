@@ -3,4 +3,5 @@ the rainbow
 red
 blue
 yellow 
+also green is color of rainbow
 this is color of rainbow
